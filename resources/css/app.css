@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Apply your custom font globally if needed */
+body {
+    @apply font-albert-sans;
+}
